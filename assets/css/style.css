@@ -1348,7 +1348,8 @@ section {
   margin-bottom: 5px;
   font-size: 18px;
   color: #124265;
-  max-width: 200px;
+  width: 250px;
+  height: 250px;
 }
 
 .team .member .member-info span {
